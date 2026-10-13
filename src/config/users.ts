@@ -420,6 +420,10 @@ export const MEMBERS: readonly Member[] = [
     memberOf: [ROLE_IDS.SKILLS_OVER_MCP_WG],
   },
   {
+    github: 'jayzuccarelli',
+    memberOf: [ROLE_IDS.FILESYSTEMS_WG],
+  },
+  {
     github: 'jba',
     discord: '773276903364755518',
     memberOf: [ROLE_IDS.GO_SDK],
